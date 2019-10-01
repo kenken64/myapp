@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43+devel"
+   width="1052.3622"
+   height="500"
+   sodipodi:docbase="/home/yug/Desktop"
+   sodipodi:docname="Bat-shadow.svg"
+   version="1.0"
+   inkscape:r_cx="true"
+   inkscape:r_cy="true">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     inkscape:window-height="736"
+     inkscape:window-width="1018"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.75528043"
+     inkscape:cx="526.18109"
+     inkscape:cy="226.50961"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2"
+     width="1052.3622px"
+     height="500px">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="934.82449"
+       id="guide1324" />
+  </sodipodi:namedview>
+  <g
+     id="g1317"
+     transform="matrix(2.36039,0,0,2.36039,-267.6602,-1281.745)"
+     inkscape:r_cx="true"
+     inkscape:r_cy="true">
+    <path
+       style="fill:#000000"
+       d="M 328.13982,741.35361 C 327.48337,729.45887 302.92432,724.65463 293.51786,701.57728 C 284.27344,678.89747 247.67663,658.63302 205.71681,664.25093 C 190.25974,637.34272 180.84563,628.89136 155.52384,627.62337 C 147.06744,609.48999 133.65827,608.66727 123.10263,601.64435 C 131.82171,592.21209 189.42204,575.03211 235.73744,580.28303 C 257.95942,592.76197 279.01467,600.38879 291.37345,602.33579 C 308.55091,586.21273 310.65762,582.82805 311.78268,575.49859 C 312.72674,569.3483 308.14957,573.98336 304.49867,549.87909 C 316.70805,549.34071 330.52962,567.67393 360.85139,548.05671 C 358.81818,570.02552 353.18438,569.46702 353.21214,576.2359 C 353.23944,582.89177 354.55595,584.19694 371.94935,603.76737 C 383.12927,598.79297 399.98526,589.50476 422.60145,578.01972 C 465.69632,578.61128 499.58751,574.72247 549.53305,599.37883 C 535.03569,611.47987 518.13226,602.1747 505.81663,628.40227 C 480.08575,632.17315 462.96655,638.20965 446.08785,665.11464 C 406.32041,658.28885 383.04669,673.75727 368.8016,701.25183 C 354.30013,729.24122 335.76497,730.71733 334.75381,741.43862 C 333.75956,751.9806 328.79657,753.25384 328.13982,741.35361 z "
+       id="path1319"
+       inkscape:r_cx="true"
+       inkscape:r_cy="true"
+       sodipodi:nodetypes="czccccczcczccccczzz" />
+  </g>
+</svg>

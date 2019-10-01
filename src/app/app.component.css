@@ -1,0 +1,22 @@
+#bat-pic{
+    max-width: 30%;
+    height: auto;
+}
+
+.title {
+    color: rgb(87, 126, 128);
+    margin: 0 0 0 10px;
+    text-align: center;
+    
+}
+
+.content{
+    margin: 10px;
+    text-align: center;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:auto;
+   
+}
